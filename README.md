@@ -1,7 +1,7 @@
 # Dance-Party
 WWDC 2021 Swift Student Challenge Winner
 
- ![Dance Party](dancepartytitle.png)
+ ![Dance Party](Code/Dance%20Party/PrivateResources/dancepartytitle.png)
 
 ## Installation Steps (Works on iPad Only)
 - Clone or Download
