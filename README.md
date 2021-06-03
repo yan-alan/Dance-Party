@@ -1,5 +1,5 @@
-#  Dance-Party 🎉
- WWDC 2021 Swift Student Challenge Winner 
+# 💃 Dance Party 🕺
+🍎 **WWDC 2021 Swift Student Challenge Winner** 🎉
 
  ![Dance Party](Code/Dance%20Party/PrivateResources/dancepartytitle.png)
 
